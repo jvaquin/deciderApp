@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(192, 163, 220);
+}
+
+article {
+    background:  linear-gradient(rgb(145, 198, 198),pink);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    display:block;
+    text-align: center;
+}
+
+h3 {
+    color: red;
+}
+#button {
+    background: linear-gradient(pink, cyan);
+    width: 30%;
+    height: 25px;
+}
